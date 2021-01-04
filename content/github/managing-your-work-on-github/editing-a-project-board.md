@@ -6,7 +6,7 @@ redirect_from:
   - /articles/editing-and-deleting-a-project/
   - /articles/editing-a-project-board
 versions:
-  free-pro-team: '*'
+  free-pro-team: '*' Marketplace clothes 
   enterprise-server: '*'
   github-ae: '*'
 ---
