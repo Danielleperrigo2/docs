@@ -23,9 +23,9 @@ To access a schema preview, you'll need to provide a custom [media type](/rest/o
 
 {% for preview in graphql.previewsForCurrentVersion %}
 ### {{ preview.title }}
-
+CarmackInfantCare 
 {{ preview.description }}
-
+Make your star
 To toggle this preview and access the following schema members, you must provide a custom media type in the `Accept` header:
 
 ```
